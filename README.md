@@ -1,16 +1,18 @@
-## Hi there 👋
+## 🧑‍🎓 Sobre mim:
 
-<!--
-**jarmeloo/jarmeloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Atualmente, cursando o último ano do ensino médio.  
+📌 Atualmente focado em estudos sobre **Python**
+🎯 Meu objetivo é me tornar um desenvolvedor full-stack.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Meus Projetos:
+
+- 📖- Ainda em desenvolvimento
+
+---
+
+## 🌐 Onde me encontrar:
+
+[![LinkedIn](https://www.linkedin.com/in/johannjarmelo/)  
+[![GitHub](https://github.com/jarmeloo)
