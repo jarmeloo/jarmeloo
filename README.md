@@ -1,9 +1,9 @@
 ## 🧑‍🎓 Sobre mim:
 
-🎓 Atualmente, cursando o último ano do ensino médio.  
-🗽 Fluente em Inglês.  
+🎓 Atualmente, cursando o **último ano do ensino médio**.  
+🗽 Fluente em **Inglês**.  
 📌 Atualmente focado em estudos sobre **Python**.  
-🎯 Meu objetivo é me tornar um desenvolvedor full-stack.
+🎯 Meu objetivo é me tornar um **desenvolvedor full-stack**.
 
 ---
 
