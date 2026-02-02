@@ -10,7 +10,7 @@
 ## 📁 Meus Projetos:
 
 - 💻 Dashboard de Análise Salarial em Data & Analytics: (https://github.com/jarmeloo/dashboard-data-e-analytics)
-- 🎥 Sorteador de Filmes e Séries Disney+: ()
+- 🎥 Sorteador de Filmes e Séries Disney+: (https://github.com/jarmeloo/sorteador-filmes-e-series)
 
 ---
 
