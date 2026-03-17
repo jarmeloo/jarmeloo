@@ -11,6 +11,7 @@
 
 - 💻 Dashboard de Análise Salarial em Data & Analytics: (https://github.com/jarmeloo/dashboard-data-e-analytics)
 - 🎥 Sorteador de Filmes e Séries Disney+: (https://github.com/jarmeloo/sorteador-filmes-e-series)
+- 🛍️ Pringles Product Hub (em desenvolvimento)
 
 ---
 
@@ -39,5 +40,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarmeloo&layout=compact&theme=tokyonight)
 
 ---
-
-![Snake animation](https://github.com/jarmeloo/jarmeloo/blob/output/github-contribution-grid-snake.svg)
