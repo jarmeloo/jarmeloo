@@ -21,7 +21,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jarmeloo)
 
 ---
-## 📖 Competências
+## 📖 Competências (Atualmente aprendendo)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -31,3 +31,13 @@
 [![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)]()
 
 ---
+
+## 📊 GitHub Stats
+
+![Johann GitHub stats](https://github-readme-stats.vercel.app/api?username=jarmeloo&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarmeloo&layout=compact&theme=tokyonight)
+
+---
+
+![Snake animation](https://github.com/jarmeloo/jarmeloo/blob/output/github-contribution-grid-snake.svg)
