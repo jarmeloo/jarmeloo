@@ -37,6 +37,6 @@
 
 ![Johann GitHub stats](https://github-readme-stats.vercel.app/api?username=jarmeloo&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarmeloo&layout=compact&theme=tokyonight)
+
 
 ---
