@@ -12,7 +12,7 @@
 - 💻 Dashboard de Análise Salarial em Data & Analytics: (https://github.com/jarmeloo/dashboard-data-e-analytics)
 - 🎥 Sorteador de Filmes e Séries Disney+: (https://github.com/jarmeloo/sorteador-filmes-e-series)
 - 🛍️ Pringles Product Hub (em desenvolvimento)
-- 🎬 Netflix Reimagined (em desenvolvimento)
+- 🎬 Netflix Reimagined (https://github.com/jarmeloo/Netflix-Reimagined)
 
 ---
 
