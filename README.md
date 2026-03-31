@@ -18,7 +18,7 @@
 
 ## 🌐 Onde me encontrar:
 
-[![Portfólio](https://img.shields.io/badge/💼_Portfólio-00686c?style=for-the-badge)](https://jarmeloo.github.io/portifolio/)  
+[![Portfólio](https://img.shields.io/badge/💼_Portfólio-005bc5?style=for-the-badge)](https://jarmeloo.github.io/portifolio/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johannjarmelo/)  
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/johannjarmelo)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jarmeloo)
