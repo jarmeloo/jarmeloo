@@ -36,30 +36,9 @@
 
 ---
 
-## 📁 Meus Projetos
+### 💻 Dashboard de Análise Salarial  
 
-### 💻 Dashboard de Análise Salarial
-Projeto focado em Data Analytics, explorando dados salariais com visualizações claras e insights.
+![Status](https://img.shields.io/badge/status-concluído-green)
+![Tech](https://img.shields.io/badge/tech-Data%20Analytics-blue)
 
-🔗 [Ver projeto](https://github.com/jarmeloo/dashboard-data-e-analytics)
-
----
-
-### 🎬 Sorteador de Filmes e Séries
-Aplicação que sugere filmes e séries da Disney+ de forma aleatória.
-
-🔗 [Ver projeto](https://github.com/jarmeloo/sorteador-filmes-e-series)
-
----
-
-### 🛍️ Pringles Product Hub (WIP)
-Hub de produtos inspirado na marca Pringles, focado em organização e experiência.
-
-🚧 Em desenvolvimento
-
----
-
-### 🍿 Netflix Reimagined
-Redesign da interface da Netflix com foco em UX/UI moderno.
-
-🔗 [Ver projeto](https://github.com/jarmeloo/Netflix-Reimagined)
+🔗 https://github.com/jarmeloo/dashboard-data-e-analytics
