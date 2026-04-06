@@ -11,9 +11,12 @@
 
 - 💻 Dashboard de Análise Salarial em Data & Analytics:  
   🔗 [Ver projeto](https://github.com/jarmeloo/dashboard-data-e-analytics)
-- 🎥 Sorteador de Filmes e Séries Disney+: (https://github.com/jarmeloo/sorteador-filmes-e-series)
-- 🛍️ Pringles Product Hub (em desenvolvimento)
-- 🎬 Netflix Reimagined (https://github.com/jarmeloo/Netflix-Reimagined)
+- 🎥 Sorteador de Filmes e Séries Disney+: 
+  🔗 [Ver projeto](https://github.com/jarmeloo/sorteador-filmes-e-series)
+- 🛍️ Pringles Product Hub  
+  🚧 Em desenvolvimento
+- 🎬 Netflix Reimagined  
+  🔗 [Ver projeto](https://github.com/jarmeloo/Netflix-Reimagined)
 
 ---
 
@@ -35,10 +38,3 @@
 [![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)]()
 
 ---
-
-### 💻 Dashboard de Análise Salarial  
-
-![Status](https://img.shields.io/badge/status-concluído-green)
-![Tech](https://img.shields.io/badge/tech-Data%20Analytics-blue)
-
-🔗 https://github.com/jarmeloo/dashboard-data-e-analytics
