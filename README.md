@@ -7,7 +7,7 @@
 
 ---
 
-### 📁 Meus Projetos:
+# 📁 Meus Projetos:
 
 - ## 💻 Dashboard de Análise Salarial em Data & Analytics:  
   🔗 [Ver projeto](https://github.com/jarmeloo/dashboard-data-e-analytics)
@@ -20,7 +20,7 @@
 
 ---
 
-### 🌐 Onde me encontrar:
+# 🌐 Onde me encontrar:
 
 [![Portfólio](https://img.shields.io/badge/💼_Portfólio-005bc5?style=for-the-badge)](https://jarmeloo.github.io/portifolio/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johannjarmelo/)  
