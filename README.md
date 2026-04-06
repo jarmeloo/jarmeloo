@@ -34,3 +34,31 @@
 [![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)]()
 
 ---
+
+## 📁 Meus Projetos
+
+### 💻 Dashboard de Análise Salarial
+Projeto focado em Data Analytics, explorando dados salariais com visualizações claras e insights.
+
+🔗 [Ver projeto](https://github.com/jarmeloo/dashboard-data-e-analytics)
+
+---
+
+### 🎬 Sorteador de Filmes e Séries
+Aplicação que sugere filmes e séries da Disney+ de forma aleatória.
+
+🔗 [Ver projeto](https://github.com/jarmeloo/sorteador-filmes-e-series)
+
+---
+
+### 🛍️ Pringles Product Hub (WIP)
+Hub de produtos inspirado na marca Pringles, focado em organização e experiência.
+
+🚧 Em desenvolvimento
+
+---
+
+### 🍿 Netflix Reimagined
+Redesign da interface da Netflix com foco em UX/UI moderno.
+
+🔗 [Ver projeto](https://github.com/jarmeloo/Netflix-Reimagined)
