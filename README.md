@@ -9,13 +9,13 @@
 
 ## 📁 Meus Projetos:
 
-- 💻 Dashboard de Análise Salarial em Data & Analytics:  
+- ## 💻 Dashboard de Análise Salarial em Data & Analytics:  
   🔗 [Ver projeto](https://github.com/jarmeloo/dashboard-data-e-analytics)
-- 🎥 Sorteador de Filmes e Séries Disney+: 
+- ## 🎥 Sorteador de Filmes e Séries Disney+:  
   🔗 [Ver projeto](https://github.com/jarmeloo/sorteador-filmes-e-series)
-- 🛍️ Pringles Product Hub  
-  🚧 Em desenvolvimento
-- 🎬 Netflix Reimagined  
+- ## 🛍️ Pringles Product Hub:  
+  🚧 Em desenvolvimento...
+- ## 🎬 Netflix Reimagined  
   🔗 [Ver projeto](https://github.com/jarmeloo/Netflix-Reimagined)
 
 ---
