@@ -1,4 +1,4 @@
-### 🧑‍🎓 Sobre mim:
+# 🧑‍🎓 Sobre mim:
 
 🎓 Atualmente, fazendo faculdade de **ciências da computação**.  
 🗽 Fluente em **Inglês**.  
