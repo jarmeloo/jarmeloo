@@ -15,7 +15,7 @@
   🔗 [Ver projeto](https://github.com/jarmeloo/sorteador-filmes-e-series)
 - ## 🎬 Netflix Reimagined  
   🔗 [Ver projeto](https://github.com/jarmeloo/Netflix-Reimagined)
-- ## 🎬 Stranger Things Landing Page   
+- ## 🚲 Stranger Things Landing Page   
   🔗 [Ver projeto](https://github.com/jarmeloo/StrangerThingsLandingPage)
 - ## 🛍️ Pringles Product Hub:  
   🚧 Em desenvolvimento...
