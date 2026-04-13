@@ -13,7 +13,7 @@
   🔗 [Ver projeto](https://github.com/jarmeloo/dashboard-data-e-analytics)
 - ## 🎥 Sorteador de Filmes e Séries Disney+:  
   🔗 [Ver projeto](https://github.com/jarmeloo/sorteador-filmes-e-series)
-- ## 🎬 Netflix Reimagined  
+- ## 🎬 Netflix Clone  
   🔗 [Ver projeto](https://github.com/jarmeloo/Netflix-Reimagined)
 - ## 🚲 Stranger Things Landing Page   
   🔗 [Ver projeto](https://github.com/jarmeloo/StrangerThingsLandingPage)
