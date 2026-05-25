@@ -13,7 +13,7 @@
 |---|---|---|
 | [💻 Dashboard de Análise Salarial em Data & Analytics]) | [Ver projeto completo](https://github.com/jarmeloo/dashboard-data-e-analytics) | Python |
 | [🎥 Sorteador de Filmes e Séries Disney+]) | [Ver projeto completo](https://github.com/jarmeloo/sorteador-filmes-e-series) | Python |
-| [🚲 Stranger Things Landing Page]) | [Ver projeto completo](https://github.com/jarmeloo/StrangerThingsLandingPage) | Python |
+| [🚲 Stranger Things Landing Page]) | [Ver projeto completo](https://github.com/jarmeloo/StrangerThingsLandingPage) | HTML, CSS, JS, GSAP |
 | [🎬 Netflix Clone]) | [Ver projeto completo](https://github.com/jarmeloo/Netflix-Reimagined) | HTML, CSS, JS |
 | [🛍️ Pringles Product Landing Page]) | Em desenvolvimento... | Em desenvolvimento... |
 
