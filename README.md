@@ -50,8 +50,8 @@ Estudante de **Ciências da Computação** apaixonado por construir interfaces m
 | Tecnologia | Progresso | Nível |
 |-----------|-----------|-------|
 | Python | 🟩🟩🟩🟩🟩🟩⬜⬜ | Intermediário |
-| JavaScript | 🟩🟩🟩🟩🟩⬜⬜⬜ | Intermediário |
-| HTML & CSS | 🟩🟩🟩🟩🟩🟩🟩⬜ | Avançado |
+| JavaScript | 🟩🟩🟩🟩⬜⬜⬜⬜ | Intermediário |
+| HTML & CSS | 🟩🟩🟩🟩🟩🟩⬜⬜ | Intermediário |
 | Java | 🟩🟩🟩⬜⬜⬜⬜⬜ | Iniciante |
 | Power BI | 🟩🟩🟩🟩⬜⬜⬜⬜ | Básico-Intermediário |
 | React *(próximo)* | ⬜⬜⬜⬜⬜⬜⬜⬜ | Em breve 🎯 |
