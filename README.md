@@ -17,7 +17,7 @@ Estudante de **Ciências da Computação** apaixonado por construir interfaces m
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tech Skills
 
 <div align="center">
 
