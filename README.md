@@ -3,22 +3,19 @@
 🎓 Atualmente, fazendo faculdade de **ciências da computação**.  
 🗽 Fluente em **Inglês**.  
 📌 Atualmente focado em estudos sobre **linguagens de programação**.  
-🎯 Meu objetivo é me tornar um **Programador**.
+🎯 Meu objetivo é me tornar um **Programador full stack**.
 
 ---
 
-# 📁 Meus Projetos:
+# 📁 Meus Projetos
 
-- ## 💻 Dashboard de Análise Salarial em Data & Analytics:  
-  🔗 [Ver projeto](https://github.com/jarmeloo/dashboard-data-e-analytics)
-- ## 🎥 Sorteador de Filmes e Séries Disney+:  
-  🔗 [Ver projeto](https://github.com/jarmeloo/sorteador-filmes-e-series)
-- ## 🎬 Netflix Clone  
-  🔗 [Ver projeto](https://github.com/jarmeloo/Netflix-Reimagined)
-- ## 🚲 Stranger Things Landing Page   
-  🔗 [Ver projeto](https://github.com/jarmeloo/StrangerThingsLandingPage)
-- ## 🛍️ Pringles Product Hub:  
-  🚧 Em desenvolvimento...
+| Projeto | Link | Tecnologias |
+|---|---|---|
+| [💻 Dashboard de Análise Salarial em Data & Analytics]) | [Ver projeto completo](https://github.com/jarmeloo/dashboard-data-e-analytics) | Python |
+| [🎥 Sorteador de Filmes e Séries Disney+]) | [Ver projeto completo](https://github.com/jarmeloo/sorteador-filmes-e-series) | Python |
+| [🚲 Stranger Things Landing Page]) | [Ver projeto completo](https://github.com/jarmeloo/StrangerThingsLandingPage) | Python |
+| [🎬 Netflix Clone]) | [Ver projeto completo](https://github.com/jarmeloo/Netflix-Reimagined) | HTML, CSS, JS |
+| [🛍️ Pringles Product Landing Page]) | Em desenvolvimento... | Em desenvolvimento... |
 
   
 ---
