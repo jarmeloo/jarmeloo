@@ -58,5 +58,5 @@ Estudante de **Ciências da Computação** apaixonado por construir interfaces m
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:042C53,100:378ADD&height=100&section=footer" />
 </div>
