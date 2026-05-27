@@ -9,7 +9,7 @@
 [![PT-BR](https://img.shields.io/badge/🌐%20Português-042C53?style=for-the-badge)](./README.pt-BR.md)
 [![EN](https://img.shields.io/badge/🌐%20English-378ADD?style=for-the-badge)](./README.md)
 
-🌐 Choose your preferred language / Escolha seu idioma preferido
+>🌐 Choose your preferred language / Escolha seu idioma preferido
 
 </div>
 
