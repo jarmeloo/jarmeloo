@@ -11,7 +11,9 @@
 
 </div>
 
+<div align="center">
 >🌐 Choose your preferred language / Escolha seu idioma preferido
+</div>
 
 ---
 
