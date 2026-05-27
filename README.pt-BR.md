@@ -1,15 +1,16 @@
 <div align="center">
 
-[![PT-BR](https://img.shields.io/badge/🌐%20Português-378ADD?style=for-the-badge)](./README.pt-BR.md)
-[![EN](https://img.shields.io/badge/🌐%20English-042C53?style=for-the-badge)](./README.md)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:042C53,100:378ADD&height=200&section=header&text=Johann%20Jarmelo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Full%20Stack%20Developer&descAlignY=58&descColor=a0a0b0" />
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:042C53,100:378ADD&height=200&section=header&text=Johann%20Jarmelo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Full%20Stack%20Developer&descAlignY=58&descColor=a0a0b0" />
+[![PT-BR](https://img.shields.io/badge/🌐%20Português-378ADD?style=for-the-badge)](./README.pt-BR.md)
+[![EN](https://img.shields.io/badge/🌐%20English-042C53?style=for-the-badge)](./README.md)
 
 </div>
+
 
 ---
 
