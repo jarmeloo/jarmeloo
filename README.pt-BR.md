@@ -5,10 +5,9 @@
 </div>
 
 <div align="center">
-
-[![PT-BR](https://img.shields.io/badge/🌐%20Português-378ADD?style=for-the-badge)](./README.pt-BR.md)
+ 
 [![EN](https://img.shields.io/badge/🌐%20English-042C53?style=for-the-badge)](./README.md)
-
+[![PT-BR](https://img.shields.io/badge/🌐%20Português-378ADD?style=for-the-badge)](./README.pt-BR.md)
 
 >🌐 Choose your preferred language / Escolha seu idioma preferido
 
@@ -75,7 +74,7 @@ Estudante de **Ciências da Computação** apaixonado por construir interfaces m
 <div align="center">
 
 [![Portfólio](https://img.shields.io/badge/💼%20Portfólio-005bc5?style=for-the-badge)](https://jarmeloo.github.io/portifolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johannjarmelo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMGgtMTkuNEMxLjI3NSAwIC4wMDggMS4wNC4wMDggMi4zMTJ2MTkuMTIzQy4wMDggMjIuOTYzIDEuMjc1IDI0IDIuODI1IDI0aDI3LjM1YzEuNTUgMCAyLjgyNS0xLjAzNyAyLjgyNS0yLjMxMlYyLjMxMkMyLjkxNyAxLjA0IDEuNjUuMDAyLjEuMDAyaC4wMDN6Ii8+PC9zdmc+&logoColor=white)](https://www.linkedin.com/in/johannjarmelo/)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/johannjarmelo)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jarmeloo)
 
