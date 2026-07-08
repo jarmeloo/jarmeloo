@@ -17,9 +17,9 @@
 
 ## 👨‍💻 About Me
 
-**Computer Science** student passionate about building modern interfaces and creative solutions. My current focus is mastering **Full Stack** development, combining solid back-end logic with well-designed front-end experiences.
+**Software Engineering** student passionate about building modern interfaces and creative solutions. My current focus is mastering **Full Stack** development, combining solid back-end logic with well-designed front-end experiences.
 
-- 🎓 Studying **Computer Science**
+- 🎓 Studying **Software Engineering**
 - 🌎 Fluent in **Portuguese** and **English**
 - 🚀 Goal: to become a **Full Stack Developer**
 - 🔍 Currently exploring **programming languages** and their practical applications
