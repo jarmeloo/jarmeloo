@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:042C53,100:378ADD&height=200&section=header&text=Johann%20Jarmelo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Estudante%20de%20Engenharia%20de%20Software%20%7C%20Aspiring%20Full%20Stack%20Developer&descAlignY=58&descColor=a0a0b0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:042C53,100:378ADD&height=200&section=header&text=Johann%20Jarmelo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Estudante%20de%20Ciência%20da%20Computação%20%7C%20Aspiring%20Full%20Stack%20Developer&descAlignY=58&descColor=a0a0b0" />
 
 </div>
 
@@ -18,9 +18,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Estudante de **Engenharia de Software** apaixonado por construir interfaces modernas e soluções criativas. Meu foco atual é dominar o desenvolvimento **Full Stack**, combinando lógica de back-end sólida com experiências de front-end bem projetadas.
+Estudante de **Ciência da Computação** apaixonado por construir interfaces modernas e soluções criativas. Meu foco atual é dominar o desenvolvimento **Full Stack**, combinando lógica de back-end sólida com experiências de front-end bem projetadas.
 
-- 🎓 Cursando **Engenharia de Software**
+- 🎓 Cursando **Ciência da Computação**
 - 🌎 Fluente em **Português** e **Inglês**
 - 🚀 Objetivo: me tornar um **Desenvolvedor Full Stack**
 - 🔍 Atualmente explorando **linguagens de programação** e suas aplicações práticas
