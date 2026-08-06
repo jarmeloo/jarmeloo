@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:042C53,100:378ADD&height=200&section=header&text=Johann%20Jarmelo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Full%20Stack%20Developer&descAlignY=58&descColor=a0a0b0" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=Choose your preferred language; Escolha seu idioma preferido"/>
-
 </div>
 
 <div align="center">
