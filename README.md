@@ -24,6 +24,20 @@
 - 🚀 Goal: to become a **Full Stack Developer**
 - 🔍 Currently exploring **programming languages** and their practical applications
 
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,github,figma,vscode,docker&perline=8"/>
+
+</div>
+
+---
+
+
 ---
 
 ## 🛠️ Tech Skills
